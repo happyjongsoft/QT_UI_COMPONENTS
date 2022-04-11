@@ -12,5 +12,9 @@
 ## [4. QtRoundProgressBar](https://github.com/happyjongsoft/QT_UI_COMPONENTS/tree/master/04_QtRoundProgressBar)
 <img src="https://github.com/happyjongsoft/QT_UI_COMPONENTS/blob/master/04_QtRoundProgressBar/screenshot.png?raw=true" width="400"/>
 
+## [5. QtProgressIndicator](https://github.com/happyjongsoft/QT_UI_COMPONENTS/tree/master/05_QtProgressIndicator)
+<img src="https://github.com/happyjongsoft/QT_UI_COMPONENTS/blob/master/05_QtProgressIndicator/QtProgressIndicator.gif?raw=true" width="400"/>
+
+<br/>
 [happy.jong.soft@gmail.com](mailto:happy.jong.soft@gmail.com) \
 [YouTube](https://www.youtube.com/channel/UCzcpR2jPKBYXvKFp6kBMdGA)
