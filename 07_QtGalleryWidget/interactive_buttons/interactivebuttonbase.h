@@ -20,20 +20,6 @@
 #define DOUBLE_PRESS_INTERVAL 200 // 松开和按下的间隔。相等为双击
 #define SINGLE_PRESS_INTERVAL 150 // 按下时间超过这个数就是单击。相等为单击
 
-/**
- * Copyright (c) 2019 命燃芯乂 All rights reserved.
- ×
- * 邮箱：iwxyiii@gmail.com
- * QQ号：482582886
- * 时间：2019.11.1
- *
- * 说明：灵性的自定义按钮，简单又又去
- * 源码：https://github.com/MRXY001/Interactive-Windows-Buttons
- *
- * 本代码为本人编写方便自己使用，现在无私送给大家免费使用。
- * 程序版权归作者所有，只可使用不能出售，违反者本人有权追究责任。
- */
-
 class InteractiveButtonBase : public QPushButton
 {
     Q_OBJECT
